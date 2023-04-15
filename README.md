@@ -1,17 +1,13 @@
 # YTV_API
 My Youtube APIs
 #
-# To require a Developer Key to YouTube, jump to 
-# 
-# https://console.cloud.google.com/apis/dashboard
-#
-# or you van read a nice article to create/require the YTV API Key, jump to 
-#
-# https://blog.hubspot.com/website/how-to-get-youtube-api-key
-#
-# ------------------------------------------------------------------------------------
+To require a Developer Key to YouTube, 
+jump to https://console.cloud.google.com/apis/dashboard
+
+or you Can read a nice article to create/require the YTV API Key, 
+jump to https://blog.hubspot.com/website/how-to-get-youtube-api-key
+
 # REMEMBER !!!
-#
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
